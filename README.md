@@ -1,1 +1,1 @@
-# newPasswordGenerator
+# nonSecurePasswordGenerator
